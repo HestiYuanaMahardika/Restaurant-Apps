@@ -1,9 +1,9 @@
 # **Menjadi Front-End Web Developer Expert**
-</br>
+
 # **Submission 1: Katalog Restoran**
-</br>
+
 ## Website Name : Weststreet Restaurant
-</br>
+
 ## Fitur yang harus ada pada aplikasi: 
 
 <ol>
