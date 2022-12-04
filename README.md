@@ -21,6 +21,7 @@
       <li>Terdapat fitur navigation drawer yang berfungsi dengan baik bila diakses pada layar seluler.</li>
     </ul>
    </li>
+   </br>
 
   <li>
     <b>Hero Element (Jumbotron Element)</b></br>
@@ -35,15 +36,17 @@
       </li>
     </ul>
   </li>
+  </br>
 
   <li>
     <b>Daftar Restoran</b></br>
      Syarat:
      <ul>
        <li>Menampilkan daftar restoran berdasarkan data yang sudah disediakan di dalam project starter (src → DATA.json), untuk menampilkannya boleh melalui cara                   hardcoded di berkas HTML, atau menggunakan DOM manipulation menggunakan JavaScript.</li>
-       <li>Wajib menampilkan nama, gambar dan minimal salah satu diantara kota, rating, dan atau deskripsi pada restoran.<li>
+       <li>Wajib menampilkan nama, gambar dan minimal salah satu diantara kota, rating, dan atau deskripsi pada restoran.</li>
      </ul>
    </li>
+   </br>
 
   <li>
     <b>Footer</b></br>
@@ -53,6 +56,7 @@
         <li>Terdapat konten teks bebas sesuai dengan kreatifitas Anda. Misalnya, konten copyright yang mencangkup tahun dan nama aplikasi. Contoh: “Copyright © 2020 -              Hunger Apps”.</li>
      </ul>
   </li>
+  </br>
 
   <li>
     <b>Responsibilitas Tampilan</b></br>
@@ -63,6 +67,7 @@
       <li>Menetapkan ukuran viewport secara dinamis berdasarkan layar device yang digunakan.</li>
     </ul>
    </li>
+   </br>
 
   <li>
     <b>Aksesibilitas Website</b></br>
@@ -77,6 +82,7 @@
     </ul>
   </li>
 </ol>
+</br>
 
 ## Kriteria Submission
 1. Menggunakan standar ES6 sintaks dalam menuliskan kode JavaScript pada proyek yang dibuat.
