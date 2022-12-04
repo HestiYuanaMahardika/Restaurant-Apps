@@ -5,7 +5,7 @@
 
 ## Fitur yang harus ada pada aplikasi: 
 
-<strong> 1. App Bar (Navigation Bar) <strong>
+<strong> 1. App Bar (Navigation Bar) </strong>
 Syarat:
 Menampilkan nama aplikasi atau brand logo dari aplikasi katalog restoran (tentukan sendiri nama aplikasi atau brand logonya).
 Terdapat navigation menu:
